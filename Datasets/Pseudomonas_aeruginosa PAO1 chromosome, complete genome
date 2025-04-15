@@ -1,0 +1,11 @@
+Description:
+  * Name: Pseudomonas aeruginosa PAb1 random library
+  * Instrument: Illumina Genome Analyzer
+  * Data: Over 287.5 million base pairs of raw sequencing data, 8.6M+ spots.
+  * Objective: Characterize the complete genome and identify genetic variants of Pseudomonas aeruginosa.
+
+Fact: 
+  * This data predominantly consist of short reads
+ 
+Link to download data:
+ https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR001656&display=download
