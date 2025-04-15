@@ -3,6 +3,9 @@ Description:
   * Method: Whole-genome sequencing with random library prep and Guppy basecalling.
   * Data: Over 487.5 million base pairs of raw sequencing data, 81,000+ spots.
   * Objective: Characterize the complete genome and identify genetic variants of E. coli.
+
+Fact: 
+  * This data predominantly consist of long reads
  
 Link to download data:
   https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos7/sra-pub-run-38/SRR031/31302/SRR31302084/SRR31302084.1
